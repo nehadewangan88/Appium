@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="3" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-21T22:17:46 IST" name="Default suite" finished-at="2025-08-21T22:17:46 IST" duration-ms="101">
+    <groups>
+    </groups>
+    <test started-at="2025-08-21T22:17:46 IST" name="Default test" finished-at="2025-08-21T22:17:46 IST" duration-ms="101">
+      <class name="AppiumPractice.Appium.ArrayProblems">
+        <test-method signature="findSecLargest()[pri:0, instance:AppiumPractice.Appium.ArrayProblems@702657cc]" started-at="2025-08-21T22:17:46 IST" name="findSecLargest" finished-at="2025-08-21T22:17:46 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findSecLargest -->
+        <test-method signature="maxConsecutiveNumbers()[pri:0, instance:AppiumPractice.Appium.ArrayProblems@702657cc]" started-at="2025-08-21T22:17:46 IST" name="maxConsecutiveNumbers" finished-at="2025-08-21T22:17:46 IST" duration-ms="4" status="FAIL">
+          <exception class="java.lang.IndexOutOfBoundsException">
+            <message>
+              <![CDATA[Index 14 out of bounds for length 14]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IndexOutOfBoundsException: Index 14 out of bounds for length 14
+at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100)
+at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+at java.base/java.util.Objects.checkIndex(Objects.java:365)
+at java.base/java.util.ArrayList.get(ArrayList.java:428)
+at AppiumPractice.Appium.ArrayProblems.maxConsecutiveNumbers(ArrayProblems.java:84)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IndexOutOfBoundsException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maxConsecutiveNumbers -->
+        <test-method signature="removeContigiousDuplicates()[pri:0, instance:AppiumPractice.Appium.ArrayProblems@702657cc]" started-at="2025-08-21T22:17:46 IST" name="removeContigiousDuplicates" finished-at="2025-08-21T22:17:46 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeContigiousDuplicates -->
+        <test-method signature="threeGreatElements()[pri:0, instance:AppiumPractice.Appium.ArrayProblems@702657cc]" started-at="2025-08-21T22:17:46 IST" name="threeGreatElements" finished-at="2025-08-21T22:17:46 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- threeGreatElements -->
+      </class> <!-- AppiumPractice.Appium.ArrayProblems -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

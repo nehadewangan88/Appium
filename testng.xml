@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="AppiumPractice.Appium.ScrollToElement"/>
+      <class name="GeneralStoreApp.GeneralTest"/>
+      <class name="AppiumPractice.Appium.RotateMobile"/>
+      <class name="AppiumPractice.Appium.calculator"/>
+      <class name="GeneralStoreApp.BaseTest"/>
+      <class name="AppiumPractice.Appium.MobileBaseTest"/>
+      <class name="AppiumPractice.Appium.DragAndDrop"/>
+      <class name="AppiumPractice.Appium.LongPress"/>
+      <class name="GeneralStoreApp.LoginTest"/>
+      <class name="AppiumPractice.Appium.BaseTest"/>
+      <class name="AppiumPractice.Appium.MobileBrowserTest"/>
+      <class name="AppiumPractice.Appium.AppiumPractice"/>
+      <class name=".charprog"/>
+      <class name="AppiumPractice.Appium.KeyEvent"/>
+      <class name="AppiumPractice.Appium.strToCharArray"/>
+      <class name="AppiumPractice.Appium.StartActivity"/>
+      <class name="AppiumPractice.Appium.ClipboardCopy"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

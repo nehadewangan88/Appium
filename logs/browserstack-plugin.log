@@ -1,0 +1,72 @@
+16:59:30.761 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+16:59:30.761 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+16:59:30.763 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Appium
+16:59:30.764 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+16:59:30.764 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+16:59:30.767 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Appium
+17:04:34.990 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+17:04:34.995 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+17:04:34.997 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Appium
+17:04:34.998 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+17:04:34.998 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+17:04:35.000 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Appium
+17:06:49.068 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+17:06:49.068 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+17:06:49.069 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/Appium
+17:06:49.070 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+17:06:49.071 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+17:06:49.072 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/Appium
+14:58:24.858 [Worker-77: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+14:58:41.024 [Worker-78: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:58:41.026 [Worker-78: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+14:58:50.727 [Worker-79: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:58:50.729 [Worker-79: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+14:59:13.243 [Worker-79: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:59:13.245 [Worker-79: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+15:01:58.932 [Worker-72: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:01:58.935 [Worker-72: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+15:03:12.339 [Worker-85: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:03:12.340 [Worker-85: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+15:03:46.712 [Worker-87: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:03:46.713 [Worker-87: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+15:04:03.823 [Worker-86: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:04:03.824 [Worker-86: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+15:04:48.029 [Worker-86: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:04:48.031 [Worker-86: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+15:05:30.338 [Worker-87: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:05:30.342 [Worker-87: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+15:08:03.534 [Worker-85: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:08:03.535 [Worker-85: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+15:09:21.242 [Worker-89: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:09:21.244 [Worker-89: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+15:09:53.056 [Worker-85: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:09:53.057 [Worker-85: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+15:10:11.646 [Worker-89: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:10:11.647 [Worker-89: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+15:14:38.138 [Worker-90: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:14:38.140 [Worker-90: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+15:15:21.410 [Worker-90: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:15:21.411 [Worker-90: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+15:16:50.898 [Worker-88: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:16:50.901 [Worker-88: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+15:17:25.724 [Worker-90: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:17:25.726 [Worker-90: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+15:19:10.057 [Worker-72: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:19:10.058 [Worker-72: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+15:24:38.786 [Worker-85: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:24:38.788 [Worker-85: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+15:27:06.937 [Worker-96: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:27:06.941 [Worker-96: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+15:27:37.394 [Worker-96: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:27:37.395 [Worker-96: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+15:29:21.791 [Worker-90: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:29:21.792 [Worker-90: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+15:47:27.876 [Worker-103: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:47:27.877 [Worker-103: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+15:48:20.950 [Worker-103: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:48:20.953 [Worker-103: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+15:48:42.795 [Worker-103: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:48:42.797 [Worker-103: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+15:50:56.485 [Worker-104: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:50:56.486 [Worker-104: Launching samplePrograms] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+15:54:44.964 [Framework stop - Equinox Container: 07ddefab-3d99-45b7-aed4-740b57613f0b] INFO  c.b.BrowserStackPluginActivator - Stopping BrowserStack Plugin...
